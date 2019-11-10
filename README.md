@@ -28,5 +28,5 @@ For using tronbox to compile, migrate, deploy and run tests please check out [tr
 * **Florian Mitterbauer** - *Initial work* - [daflockinger](https://github.com/daflockinger)
 
 ## License
-This project is licensed under the MIT License - see the [LICENSE.md](https://github.com/daflockinger/unitstack/blob/master/LICENSE) file for details
+This project is licensed under the MIT License - see the [LICENSE.md](https://github.com/cookie-coin/TRC20-Coin-Starter/blob/master/LICENSE) file for details
 
