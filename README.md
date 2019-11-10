@@ -17,10 +17,10 @@ Then you need a local tron node running. Ideally you can do this with the [docke
 
 After that you can just use your favorite IDE to start developing (e.g. Visual Studio Code or IntelliJ IDEA).
 
-The main contract for your token is [MyCoin.sol](https://github.com/TRC20-Coin-Starter/TRC20-Coin-Starter/blob/master/contracts/MyCoin.sol).
+The main contract for your token is [MyCoin.sol](https://github.com/cookie-coin/TRC20-Coin-Starter/blob/master/contracts/MyCoin.sol).
 
 For the unit-tests there is already a class with complete tests that should cover the basic implementation 
-and can be extended with the needs of your custom implementation: [CookieCoin.test.js](https://github.com/cookie-coin/TRC20-Coin-Starter/blob/master/test/CookieCoin.test.js).
+and can be extended with the needs of your custom implementation: [MyCoin.test.js](https://github.com/cookie-coin/TRC20-Coin-Starter/blob/master/test/MyCoin.test.js).
 
 For using tronbox to compile, migrate, deploy and run tests please check out [tron-box-contract-deployment](https://developers.tron.network/docs/tron-box-contract-deployment)
 
